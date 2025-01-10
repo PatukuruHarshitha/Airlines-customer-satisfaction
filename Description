@@ -1,0 +1,8 @@
+Conducted binary classification to predict passenger satisfaction using supervised learning algorithms, 
+achieving 96% accuracy with Random Forest, 83% accuracy with Naive Bayes, and 75% accuracy 
+with Decision Trees. 
+Utilized key features such as travel type, class (economy/business), and flight arrival/delay data to 
+identify factors influencing passenger satisfaction. 
+Analyzed and visualized the dataset to assist airlines in making data-driven decisions for service 
+improvements and enhancing the overall passenger experience.
+Dataset Link: https://www.kaggle.com/api/v1/datasets/download/teejmahal20/airline-passenger-satisfaction
